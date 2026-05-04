@@ -11,3 +11,4 @@ Simple Linux DevOps automation project.
 ```bash
 chmod +x scripts/*.sh
 ./scripts/monitor.sh
+# devops-toolkit
